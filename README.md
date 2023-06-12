@@ -29,13 +29,9 @@ async def on_ready():
 client.run(os.getenv("TOKEN"))
 ```
 
-This code is from [this tutorial](https://youtu.be/yfgEbZAXMAQ). If you have any issues or doubts regarding this, feel free to [contact me](https://dsc.gg/phantom).
 
 ---
 
-### DO NOT GIVE YOUR TOKEN TO OTHERS!
-
-#### Giving your token to someone else will give them the ability to log into your account without the password or 2FA.
 
 ---
 
@@ -43,4 +39,3 @@ This code is from [this tutorial](https://youtu.be/yfgEbZAXMAQ). If you have any
 
 ----
 
-> Online Forever by SealedSaucer is licensed under Attribution 4.0 International 
